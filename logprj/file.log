@@ -1,0 +1,4 @@
+[framework] 2013-04-09 12:26:10,391 - com.bdqn.test.Demo -0    [main] FATAL com.bdqn.test.Demo  - 第一个级别消息类型fatal!
+[framework] 2013-04-09 12:26:10,392 - com.bdqn.test.Demo -1    [main] ERROR com.bdqn.test.Demo  - 第二个级别消息类型error!
+[framework] 2013-04-09 12:26:10,392 - com.bdqn.test.Demo -1    [main] WARN  com.bdqn.test.Demo  - 第三个级别消息类型warn!
+[framework] 2013-04-09 12:26:10,392 - com.bdqn.test.Demo -1    [main] INFO  com.bdqn.test.Demo  - 第五个级别消息类型info!

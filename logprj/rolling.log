@@ -1,0 +1,12 @@
+[framework] 2013-04-09 12:30:12,031 - com.bdqn.test.Demo -0    [main] FATAL com.bdqn.test.Demo  - 第一个级别消息类型fatal!
+[framework] 2013-04-09 12:30:12,033 - com.bdqn.test.Demo -2    [main] ERROR com.bdqn.test.Demo  - 第二个级别消息类型error!
+[framework] 2013-04-09 12:30:38,915 - com.bdqn.test.Demo -0    [main] FATAL com.bdqn.test.Demo  - 第一个级别消息类型fatal!
+[framework] 2013-04-09 12:30:38,916 - com.bdqn.test.Demo -1    [main] ERROR com.bdqn.test.Demo  - 第二个级别消息类型error!
+[framework] 2013-04-09 12:37:24,113 - com.bdqn.test.Demo -0    [main] FATAL com.bdqn.test.Demo  - 第一个级别消息类型fatal!
+[framework] 2013-04-09 12:37:24,116 - com.bdqn.test.Demo -3    [main] ERROR com.bdqn.test.Demo  - 第二个级别消息类型error!
+[framework] 2013-04-09 12:37:56,785 - com.bdqn.test.Demo -0    [main] FATAL com.bdqn.test.Demo  - 第一个级别消息类型fatal!
+[framework] 2013-04-09 12:37:56,786 - com.bdqn.test.Demo -1    [main] ERROR com.bdqn.test.Demo  - 第二个级别消息类型error!
+[framework] 2013-04-09 12:37:56,787 - com.bdqn.test.Demo -2    [main] ERROR com.bdqn.test.Demo  - / by zero
+[framework] 2013-04-09 12:38:32,484 - com.bdqn.test.Demo -0    [main] FATAL com.bdqn.test.Demo  - 第一个级别消息类型fatal!
+[framework] 2013-04-09 12:38:32,486 - com.bdqn.test.Demo -2    [main] ERROR com.bdqn.test.Demo  - 第二个级别消息类型error!
+[framework] 2013-04-09 12:38:32,486 - com.bdqn.test.Demo -2    [main] ERROR com.bdqn.test.Demo  - 对比起，成需出差了！
