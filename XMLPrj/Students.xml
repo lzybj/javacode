@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student stuid = "1">
+		<stuno>100110</stuno>
+		<stuname>老郑</stuname>
+	</student>
+	<student stuid= "2">
+		<stuno>100111</stuno>
+		<stuname>老李</stuname>
+	</student>
+</students>
+      

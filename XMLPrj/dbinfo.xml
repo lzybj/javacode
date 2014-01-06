@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dbs>
+	<db dbid = "sqlserver">
+		<class-name>com.microsof.jdbc.sq....</class-name>
+		<url></url>
+		<username></username>
+		<pwd></pwd>
+	</db>
+	<db dbid = "oracle">
+	</db>
+</dbs>
